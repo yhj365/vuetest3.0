@@ -3,7 +3,7 @@
     <ul class="ul">
       <router-link tag="li" v-for="(item) in list" :key="item.id" :to="{path: item.url}">
         <i :class="item.icon"></i>
-        <span>{{item.name}}</span>
+        <label>{{item.name}}</label>
       </router-link>
     </ul>
   </div>

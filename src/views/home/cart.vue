@@ -8,7 +8,6 @@
 export default {
   name: 'cart',
   components: {
-    HelloWorld
   }
 }
 </script>
