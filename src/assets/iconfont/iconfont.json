@@ -1,0 +1,149 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13646852",
+      "name": "行李箱",
+      "font_class": "hanglixiang",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "13646853",
+      "name": "粉刷",
+      "font_class": "fenshua",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13646864",
+      "name": "衣裙",
+      "font_class": "yiqun",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "13646865",
+      "name": "垃圾箱",
+      "font_class": "lajixiang",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "13646866",
+      "name": "键盘",
+      "font_class": "jianpan",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "13646867",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "13646868",
+      "name": "礼品",
+      "font_class": "lipin",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13646869",
+      "name": "收藏夹",
+      "font_class": "shoucangjia",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "13646870",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13646871",
+      "name": "联系人",
+      "font_class": "lianxiren",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "13646872",
+      "name": "彩妆",
+      "font_class": "caizhuang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "13646873",
+      "name": "提醒",
+      "font_class": "tixing",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13646874",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "13646875",
+      "name": "消息表",
+      "font_class": "xiaoxibiao",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "13646876",
+      "name": "手表",
+      "font_class": "shoubiao",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "13646877",
+      "name": "相册",
+      "font_class": "xiangce",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "13646878",
+      "name": "体育用品",
+      "font_class": "tiyuyongpin",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "13646879",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "13646880",
+      "name": "家具",
+      "font_class": "jiaju",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "13646881",
+      "name": "电商彩妆家具电子产品",
+      "font_class": "xiangji",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    }
+  ]
+}

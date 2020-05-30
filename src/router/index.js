@@ -28,6 +28,11 @@ Vue.use(VueRouter)
     path: '/my',
     name: 'my',
     component: () => import('@/views/home/my.vue')
+  },
+  {
+    path: '/detail/:id',
+    name: 'detail',
+    component: () => import('@/views/page/detail.vue')
   }
 ]
 
